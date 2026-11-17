@@ -30,4 +30,4 @@ function canVote(age) {
 const age = calculateAge(2030, 2026);
 console.log(age)
 const eligible = canVote(age);
-// console.log(eligible);
+console.log(eligible);
